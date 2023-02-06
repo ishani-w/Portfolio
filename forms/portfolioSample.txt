@@ -1,0 +1,100 @@
+<!-- Post -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-social">
+            <div class="portfolio-wrap">
+              <img src="" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Facebook Post</h4>
+                <p>Social Media</p>
+                <div class="portfolio-links">
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Facebook Post"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+<!--  Drawing -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-drawing">
+            <div class="portfolio-wrap">
+              <img src="" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p>Digital Drawing</p>
+                <div class="portfolio-links">
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+<!-- App UI -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-ui">
+            <div class="portfolio-wrap">
+              <img src="" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Plant Store</h4>
+                <p>Mobile App UI Design</p>
+                <div class="portfolio-links">
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Plant Store Mobile UI"><i class="bx bx-plus"></i></a>
+                  <a href="" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+<!-- Gaming -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-gaming">
+            <div class="portfolio-wrap">
+              <img src="" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>PUBG Game </h4>
+                <p>Game Designing</p>
+                <div class="portfolio-links">
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Assassin Empress Gaming Outfit"><i class="bx bx-plus"></i></a>
+                  <a href="pubg_outfit.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+<!--  Logo -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-logo">
+            <div class="portfolio-wrap">
+              <img src="" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4> Logo</h4>
+                <p>Logo Design</p>
+                <div class="portfolio-links">
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title="EMR Logo"><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+<!--  -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-other">
+            <div class="portfolio-wrap">
+              <img src="" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          
+
+            

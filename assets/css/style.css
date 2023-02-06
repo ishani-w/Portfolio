@@ -140,7 +140,7 @@ h6 {
 @media (max-width: 991px) {
   #header {
     width: 300px;
-    /*background: #f8f8f8;*/
+    background: #f8f8f8;
     border-right: 1px solid #e6e9ec;
     left: -300px;
   }
@@ -259,6 +259,7 @@ h6 {
   cursor: pointer;
   border-radius: 50px;
   padding: 5px;
+  background-color: #fff;
 }
 
 .mobile-nav-toggle i {
